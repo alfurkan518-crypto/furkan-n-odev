@@ -245,5 +245,5 @@ st.markdown("---")
 st.caption(
     "Bu araç, Hafta 2 dersinde eğitilip Google Drive'a kaydedilen modelin "
     "kod yazmayan kullanıcılar için bir web arayüzüne taşınmış hâlidir. "
-    "İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları | Furkan Ahmet AL-2023232454"
+    "Furkan Ahmet AL- 2023232454 "
 )
